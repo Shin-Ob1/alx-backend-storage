@@ -1,0 +1,2 @@
+// remove all document with attr name = Holberton School
+db.school.deleteMany({name: "Holberton school"})
