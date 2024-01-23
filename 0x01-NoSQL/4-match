@@ -1,2 +1,2 @@
-/ a script that lists all documents with name="Holberton school"
+// a script that lists all documents with name="Holberton school"
 db.school.find({"name": "Holberton school"})
